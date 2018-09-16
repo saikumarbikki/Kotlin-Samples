@@ -1,4 +1,4 @@
-package com.example.dell.samplelogic1
+package com.example.dell.samplelogic1.fragments
 
 import android.app.Activity
 import android.content.Context

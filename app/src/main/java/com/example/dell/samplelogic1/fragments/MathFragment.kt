@@ -1,4 +1,4 @@
-package com.example.dell.samplelogic1
+package com.example.dell.samplelogic1.fragments
 
 import android.app.Activity
 import android.content.Context
@@ -8,6 +8,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.view.inputmethod.InputMethodManager
+import com.example.dell.samplelogic1.logic.MyMath
+import com.example.dell.samplelogic1.R
 import kotlinx.android.synthetic.main.fragment_math.*
 import kotlinx.android.synthetic.main.fragment_math.view.*
 

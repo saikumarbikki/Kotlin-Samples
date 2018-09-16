@@ -1,4 +1,4 @@
-package com.example.dell.samplelogic1
+package com.example.dell.samplelogic1.logic
 
 class MyMath : BaseLogic() {
     override fun add(a: String, b: String) = a.toInt() + b.toInt()

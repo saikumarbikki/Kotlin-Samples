@@ -5,6 +5,8 @@ import android.support.v4.app.Fragment
 import android.support.v7.app.AppCompatActivity
 import android.view.Menu
 import android.view.MenuItem
+import com.example.dell.samplelogic1.fragments.MathFragment
+import com.example.dell.samplelogic1.fragments.StringFragment
 
 class MainActivity : AppCompatActivity(), Communicator {
 

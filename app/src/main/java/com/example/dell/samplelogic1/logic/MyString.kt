@@ -1,4 +1,4 @@
-package com.example.dell.samplelogic1
+package com.example.dell.samplelogic1.logic
 
 class MyString : BaseLogic() {
 

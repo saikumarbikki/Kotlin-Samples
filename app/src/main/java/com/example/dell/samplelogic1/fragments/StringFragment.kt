@@ -1,5 +1,8 @@
-package com.example.dell.samplelogic1
+package com.example.dell.samplelogic1.fragments
 
+import com.example.dell.samplelogic1.MyEnum
+import com.example.dell.samplelogic1.logic.MyString
+import com.example.dell.samplelogic1.R
 import kotlinx.android.synthetic.main.fragment_string.*
 
 class StringFragment : BaseFragment() {

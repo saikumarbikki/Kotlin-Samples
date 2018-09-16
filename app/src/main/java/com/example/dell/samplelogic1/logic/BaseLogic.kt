@@ -1,4 +1,6 @@
-package com.example.dell.samplelogic1
+package com.example.dell.samplelogic1.logic
+
+import com.example.dell.samplelogic1.MyEnum
 
 abstract class BaseLogic {
 
