@@ -15,7 +15,7 @@ abstract class BaseFragment : Fragment(), View.OnClickListener {
     override fun onClick(v: View?) {
         hideKeyboard()
         var result = handleMyOperations(v?.id!!)
-        Toast.makeText(context, "Result Toast : " + result, Toast.LENGTH_SHORT).show()
+        Toast.makeText(context, "Result Toast : $result", Toast.LENGTH_SHORT).show()
     }
 
     abstract fun layoutResource(): Int

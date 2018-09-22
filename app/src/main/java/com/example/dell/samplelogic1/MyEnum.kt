@@ -5,4 +5,8 @@ enum class MyEnum {
     ADD,
     EQUALS,
     NONE,
+    SUBTRACT,
+    MULTIPLY,
+    DIVIDE
+
 }
